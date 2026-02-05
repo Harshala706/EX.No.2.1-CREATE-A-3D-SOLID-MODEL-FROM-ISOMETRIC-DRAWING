@@ -1,5 +1,9 @@
+Name : B Harshala Reddy
+
+Reg No. : 212224040050
+
 # EX.No.2.1  CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
-## Date:20-03-2025
+## Date:02-02-2026
 
 ## AIM
 To create a 3Dmodel from the given isometric drawing using fusion 360 tool. 
@@ -71,7 +75,7 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198495472-9a69edb1-f0c6-470c-b9ae-fe282fa6a678.png)
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/23b1d9c3-2345-4391-b760-8248ff89f135)
+<img width="1143" height="814" alt="2 1N" src="https://github.com/user-attachments/assets/a0e7f48e-c891-4d7d-9203-62009d83ef46" />
 
 ## RESULT: 
  Thus, the 3D model is created from given isometric drawing.
